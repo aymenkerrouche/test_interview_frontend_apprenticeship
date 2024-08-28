@@ -1,4 +1,4 @@
-1/ Array Manipulation
+# 1/ Array Manipulation
 
   function getEvenNumbers(numbers) {
       return numbers.filter(num => num % 2 === 0);
@@ -13,7 +13,7 @@
 
 
 
-2/ Task 2: DOM Interaction
+# 2/ Task 2: DOM Interaction
 
 <!DOCTYPE html>
 <html>
@@ -40,7 +40,7 @@
 
 
 
-3/ 
+# 3/ Basic Fetch
 
 <!DOCTYPE html>
 <html>
