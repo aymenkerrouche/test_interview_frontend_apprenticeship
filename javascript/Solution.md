@@ -25,10 +25,10 @@
 </head>
 
 <body>
+  
     <p id="myText"> 1,2,3 Viva AYMEN </p>
     <button id="changeTextButton"> Change Text </button>
 
-    // handle the button click
     <script>
         document.getElementById('changeTextButton').addEventListener('click', function() {
             document.getElementById('myText').textContent = 'Hello, Check!';
